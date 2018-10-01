@@ -1,0 +1,41 @@
+[33mcommit f4b8d2fcf896949398ad899e6c0505948761be10[m[33m ([m[1;36mHEAD -> [m[1;32mhistoria[m[33m, [m[1;31morigin/historia[m[33m)[m
+Author: alumno Secundaria <al3201@cedi.local>
+Date:   Thu Sep 27 08:48:01 2018 -0500
+
+    Agregamos informacion de la clase de historia
+
+[33mcommit 5bd1b3723ce390d6bb9400144e05bda2f6e6a2ad[m
+Author: alumno Secundaria <al3201@cedi.local>
+Date:   Thu Sep 27 08:35:53 2018 -0500
+
+    Agrego Page Historia, y funcion click
+
+[33mcommit 825535d9bfe0b84172451cc332315b653348c748[m
+Author: alumno Secundaria <al3201@cedi.local>
+Date:   Thu Sep 27 08:26:23 2018 -0500
+
+    Cambiamos el color de las letras y lo pusimos en negrias
+
+[33mcommit 1be97e2fedb5bb8f7738888e0f9b7b7982412e37[m
+Author: alumno Secundaria <al3201@cedi.local>
+Date:   Thu Sep 27 08:22:44 2018 -0500
+
+    Se agrego imagen de fondo
+
+[33mcommit 24ce89a137fdcde67428f0be02c89d3ff66e301f[m
+Author: alumno Secundaria <al3201@cedi.local>
+Date:   Thu Sep 27 08:13:27 2018 -0500
+
+    Card con border
+
+[33mcommit b7d8f37b12b2758474453c952eea46e846642f3a[m
+Author: alumno Secundaria <al3201@cedi.local>
+Date:   Wed Sep 26 08:49:51 2018 -0500
+
+    Centramos el titulo
+
+[33mcommit b6020d559b80e090413cd73fa6ef31c23dd81940[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: alumno Secundaria <al3201@cedi.local>
+Date:   Wed Sep 26 08:17:08 2018 -0500
+
+    Initial commit
