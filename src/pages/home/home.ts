@@ -7,6 +7,7 @@ import { PappsPage } from '../papps/papps';
 import { ComPage } from '../com/com';
 import { PyEPage } from '../py-e/py-e';
 import { RoboticaPage } from '../robotica/robotica';
+import { CPage } from '../c/c';
 
 @Component({
   selector: 'page-home',
@@ -20,7 +21,8 @@ export class HomePage {
   papps = PappsPage;
   com = ComPage;
   pye = PyEPage;
-  robo = RoboticaPage
+  robo = RoboticaPage;
+  cs = CPage;
 
   constructor(public navCtrl: NavController) {
 
@@ -52,5 +54,9 @@ export class HomePage {
   clickRobo()
   {
     this.navCtrl.push(this.robo)
+  }
+  clickCS()
+  {
+    this.navCtrl.push(this.cs)
   }
 }
