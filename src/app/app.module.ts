@@ -14,6 +14,7 @@ import { ComPage } from '../pages/com/com';
 import { PyEPage } from '../pages/py-e/py-e';
 import { RoboticaPage } from '../pages/robotica/robotica';
 import { CPage } from '../pages/c/c';
+import { MiPage } from '../pages/mi/mi';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { CPage } from '../pages/c/c';
     ComPage,
     PyEPage,
     RoboticaPage,
-    CPage
+    CPage,
+    MiPage
     
   ],
   imports: [
@@ -44,7 +46,8 @@ import { CPage } from '../pages/c/c';
     ComPage,
     PyEPage,
     RoboticaPage,
-    CPage
+    CPage,
+    MiPage
   ],
   providers: [
     StatusBar,
